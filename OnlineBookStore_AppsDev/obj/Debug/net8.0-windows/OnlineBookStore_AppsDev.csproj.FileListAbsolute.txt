@@ -1,0 +1,241 @@
+C:\Users\Kuya\OneDrive\Desktop\kuya\CODE\BOOK UP\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.exe
+C:\Users\Kuya\OneDrive\Desktop\kuya\CODE\BOOK UP\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.deps.json
+C:\Users\Kuya\OneDrive\Desktop\kuya\CODE\BOOK UP\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.runtimeconfig.json
+C:\Users\Kuya\OneDrive\Desktop\kuya\CODE\BOOK UP\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.dll
+C:\Users\Kuya\OneDrive\Desktop\kuya\CODE\BOOK UP\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.pdb
+C:\Users\Kuya\OneDrive\Desktop\kuya\CODE\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.AdminMenu.resources
+C:\Users\Kuya\OneDrive\Desktop\kuya\CODE\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.Entry.resources
+C:\Users\Kuya\OneDrive\Desktop\kuya\CODE\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.SignUpMenu.resources
+C:\Users\Kuya\OneDrive\Desktop\kuya\CODE\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.UserMenu.resources
+C:\Users\Kuya\OneDrive\Desktop\kuya\CODE\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.csproj.GenerateResource.cache
+C:\Users\Kuya\OneDrive\Desktop\kuya\CODE\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuya\OneDrive\Desktop\kuya\CODE\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.AssemblyInfoInputs.cache
+C:\Users\Kuya\OneDrive\Desktop\kuya\CODE\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.AssemblyInfo.cs
+C:\Users\Kuya\OneDrive\Desktop\kuya\CODE\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.csproj.CoreCompileInputs.cache
+C:\Users\Kuya\OneDrive\Desktop\kuya\CODE\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.sourcelink.json
+C:\Users\Kuya\OneDrive\Desktop\kuya\CODE\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.dll
+C:\Users\Kuya\OneDrive\Desktop\kuya\CODE\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\refint\OnlineBookStore_AppsDev.dll
+C:\Users\Kuya\OneDrive\Desktop\kuya\CODE\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.pdb
+C:\Users\Kuya\OneDrive\Desktop\kuya\CODE\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.genruntimeconfig.cache
+C:\Users\Kuya\OneDrive\Desktop\kuya\CODE\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\ref\OnlineBookStore_AppsDev.dll
+C:\Users\Kuya\OneDrive\Desktop\kuya\CODE\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.AdminPanel.resources
+C:\Users\Antonio Fabon Jr\Documents\GitHub\BookUp\BOOK UP\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.exe
+C:\Users\Antonio Fabon Jr\Documents\GitHub\BookUp\BOOK UP\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.deps.json
+C:\Users\Antonio Fabon Jr\Documents\GitHub\BookUp\BOOK UP\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.runtimeconfig.json
+C:\Users\Antonio Fabon Jr\Documents\GitHub\BookUp\BOOK UP\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.dll
+C:\Users\Antonio Fabon Jr\Documents\GitHub\BookUp\BOOK UP\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.pdb
+C:\Users\Antonio Fabon Jr\Documents\GitHub\BookUp\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.AdminMenu.resources
+C:\Users\Antonio Fabon Jr\Documents\GitHub\BookUp\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.AdminPanel.resources
+C:\Users\Antonio Fabon Jr\Documents\GitHub\BookUp\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.Entry.resources
+C:\Users\Antonio Fabon Jr\Documents\GitHub\BookUp\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.SignUpMenu.resources
+C:\Users\Antonio Fabon Jr\Documents\GitHub\BookUp\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.UserMenu.resources
+C:\Users\Antonio Fabon Jr\Documents\GitHub\BookUp\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.csproj.GenerateResource.cache
+C:\Users\Antonio Fabon Jr\Documents\GitHub\BookUp\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antonio Fabon Jr\Documents\GitHub\BookUp\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.AssemblyInfoInputs.cache
+C:\Users\Antonio Fabon Jr\Documents\GitHub\BookUp\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.AssemblyInfo.cs
+C:\Users\Antonio Fabon Jr\Documents\GitHub\BookUp\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.csproj.CoreCompileInputs.cache
+C:\Users\Antonio Fabon Jr\Documents\GitHub\BookUp\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.sourcelink.json
+C:\Users\Antonio Fabon Jr\Documents\GitHub\BookUp\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.dll
+C:\Users\Antonio Fabon Jr\Documents\GitHub\BookUp\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\refint\OnlineBookStore_AppsDev.dll
+C:\Users\Antonio Fabon Jr\Documents\GitHub\BookUp\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.pdb
+C:\Users\Antonio Fabon Jr\Documents\GitHub\BookUp\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.genruntimeconfig.cache
+C:\Users\Antonio Fabon Jr\Documents\GitHub\BookUp\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\ref\OnlineBookStore_AppsDev.dll
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.exe
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.deps.json
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.runtimeconfig.json
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.dll
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.pdb
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.AdminMenu.resources
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.AdminPanel.resources
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.Entry.resources
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.SignUpMenu.resources
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.UserMenu.resources
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.csproj.GenerateResource.cache
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.AssemblyInfoInputs.cache
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.AssemblyInfo.cs
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.csproj.CoreCompileInputs.cache
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.dll
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\refint\OnlineBookStore_AppsDev.dll
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.pdb
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.genruntimeconfig.cache
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\ref\OnlineBookStore_AppsDev.dll
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.csproj.AssemblyReference.cache
+C:\Users\Kuya\OneDrive\Desktop\try\BOOK UP\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBo.5D4861DF.Up2Date
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.exe
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.deps.json
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.runtimeconfig.json
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.dll
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.pdb
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.csproj.AssemblyReference.cache
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.AdminMenu.resources
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.AdminPanel.resources
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.Entry.resources
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.SignUpMenu.resources
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.UserMenu.resources
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.csproj.GenerateResource.cache
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.AssemblyInfoInputs.cache
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.AssemblyInfo.cs
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.csproj.CoreCompileInputs.cache
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.sourcelink.json
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBo.5D4861DF.Up2Date
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.dll
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\refint\OnlineBookStore_AppsDev.dll
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.pdb
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.genruntimeconfig.cache
+C:\Users\Antonio Fabon Jr\Desktop\Code\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\ref\OnlineBookStore_AppsDev.dll
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.exe
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.deps.json
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.runtimeconfig.json
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.dll
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.pdb
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.csproj.AssemblyReference.cache
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.AdminMenu.resources
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.AdminPanel.resources
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.Entry.resources
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.Search.resources
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.SignUpMenu.resources
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.UserMenu.resources
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.csproj.GenerateResource.cache
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.AssemblyInfoInputs.cache
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.AssemblyInfo.cs
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.csproj.CoreCompileInputs.cache
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBo.5D4861DF.Up2Date
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.dll
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\refint\OnlineBookStore_AppsDev.dll
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.pdb
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.genruntimeconfig.cache
+C:\Users\Kuya\OneDrive\Desktop\v1\BOOK UP v1\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\ref\OnlineBookStore_AppsDev.dll
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.exe
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.deps.json
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.runtimeconfig.json
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.dll
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.pdb
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.csproj.AssemblyReference.cache
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.AdminMenu.resources
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.AdminPanel.resources
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.Entry.resources
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.Search.resources
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.SignUpMenu.resources
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.UserMenu.resources
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.csproj.GenerateResource.cache
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.AssemblyInfoInputs.cache
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.AssemblyInfo.cs
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.csproj.CoreCompileInputs.cache
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.sourcelink.json
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBo.5D4861DF.Up2Date
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.dll
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\refint\OnlineBookStore_AppsDev.dll
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.pdb
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.genruntimeconfig.cache
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\ref\OnlineBookStore_AppsDev.dll
+C:\Users\Antonio Fabon Jr\Documents\Dec10_ver2_onlineBookStore\BOOK UP v2\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.WishList.resources
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.exe
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.deps.json
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.runtimeconfig.json
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.dll
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.pdb
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.csproj.AssemblyReference.cache
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.AdminMenu.resources
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.AdminPanel.resources
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.Entry.resources
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.Search.resources
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.SignUpMenu.resources
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.UserMenu.resources
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.WishList.resources
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.csproj.GenerateResource.cache
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.AssemblyInfoInputs.cache
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.AssemblyInfo.cs
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.csproj.CoreCompileInputs.cache
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.sourcelink.json
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBo.5D4861DF.Up2Date
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.dll
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\refint\OnlineBookStore_AppsDev.dll
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.pdb
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.genruntimeconfig.cache
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\ref\OnlineBookStore_AppsDev.dll
+C:\Users\Kuya\OneDrive\Desktop\New folder\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.Properties.Resources.resources
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.exe
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.deps.json
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.runtimeconfig.json
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.dll
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\OnlineBookStore_AppsDev.pdb
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Data.OleDb.dll
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.OleDb.dll
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.csproj.AssemblyReference.cache
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.AdminMenu.resources
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.AdminPanel.resources
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.Entry.resources
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.Properties.Resources.resources
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.Search.resources
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.SignUpMenu.resources
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore.UserMenu.resources
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.WishList.resources
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.csproj.GenerateResource.cache
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.AssemblyInfoInputs.cache
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.AssemblyInfo.cs
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.csproj.CoreCompileInputs.cache
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.sourcelink.json
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBo.5D4861DF.Up2Date
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.dll
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\refint\OnlineBookStore_AppsDev.dll
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.pdb
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\OnlineBookStore_AppsDev.genruntimeconfig.cache
+C:\Users\Kuya\OneDrive\Desktop\OnlineBookStore_AppsDev\OnlineBookStore_AppsDev\obj\Debug\net8.0-windows\ref\OnlineBookStore_AppsDev.dll
